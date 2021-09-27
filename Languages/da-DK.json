@@ -1,4 +1,7 @@
 {
   "ClientName": "Munchen Client",
-  "ProtectionsTabName": "Beskyttelser"
+  "ClientNameBeta": "Munchen Client Beta",
+  
+  "ProtectionsMenuName": "Beskyttelser",
+  "ProtectionsMenuDescription": "En menu fyldt med beskyttelser og sikkerheds funktioner",
 }
