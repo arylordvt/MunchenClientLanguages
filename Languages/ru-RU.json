@@ -168,7 +168,7 @@
   "SpooferMenuName": "Спуферы",
   "SpooferMenuDescription": "Полезные функции, позволяющие сохранить вашу конфедициальность",
   "SpooferRealisticMode": "Режим реалистичного спуфера",
-  "SpooferRealisticModeDescription": "Реалистично иммитирует 'настоящий' фпс и пинг, чтобы никто ничего не заподозрили",
+  "SpooferRealisticModeDescription": "Реалистично иммитирует 'настоящий' фпс и пинг, чтобы никто ничего не заподозрил",
   "SetSpoofedFPS": "Поставить спуфнутый ФПС",
   "SetSpoofedFPSDescription": "Поставить значение спуфнутого ФПС, который вам нравится",
   "SetSpoofedPing": "Поставить спуфнутый пинг",
